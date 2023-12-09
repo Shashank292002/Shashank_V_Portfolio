@@ -30,8 +30,10 @@ Restaurant web Template
 
 **FullStack Developement Intern | Varcons Technologies | 03/2023 - 04/2023**
 - Presented complex restaurant management system effectively, ensuring team-wide understanding.
-**Machine Learning Intern | Compsoft Technologies | 08/2023 - 09/2023**
+
+- **Machine Learning Intern | Compsoft Technologies | 08/2023 - 09/2023**
 - Collaborated closely with a cross-functional team of engineers, designers, and accessibility experts, fostering a collaborative environment to ensure the project's success.
+
 **Cybersecurity Intern | Eduskills Foundation | 09/2023 - 11/2023**
 - Completed courses in Cybersecurity Fundamentals, Cloud Security, Network Security, and Security of Operations.
 
